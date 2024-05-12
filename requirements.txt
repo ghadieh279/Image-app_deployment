@@ -3,3 +3,4 @@ rawpy==0.19.1
 streamlit==1.33.0
 tensorflow==2.10.0
 wxPython==4.2.1
+protobuf~=3.19.0
