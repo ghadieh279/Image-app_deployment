@@ -3,3 +3,4 @@ rawpy
 streamlit
 tensorflow
 wxPython
+wheel
