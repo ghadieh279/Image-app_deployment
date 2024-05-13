@@ -2,4 +2,3 @@ Pillow
 rawpy
 streamlit
 tensorflow
-wxPython
