@@ -4,6 +4,4 @@ streamlit
 tensorflow
 wxPython
 uuid
-io
-os
-time 
+
