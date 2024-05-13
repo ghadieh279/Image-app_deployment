@@ -4,3 +4,4 @@ streamlit
 tensorflow
 wxPython
 wheel
+libgtk-3-dev
