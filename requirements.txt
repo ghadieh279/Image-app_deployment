@@ -2,4 +2,4 @@ Pillow
 rawpy
 streamlit
 tensorflow
-wxPython==4.2.1
+wx
