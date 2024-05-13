@@ -2,6 +2,7 @@ Pillow
 rawpy
 streamlit
 tensorflow
+wxWidgets
 wxPython
 uuid
 
