@@ -3,4 +3,7 @@ rawpy
 streamlit
 tensorflow
 wxPython
-wheel
+uuid
+io
+os
+time 
