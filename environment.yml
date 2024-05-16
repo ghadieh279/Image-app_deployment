@@ -169,7 +169,7 @@ dependencies:
   - pyjwt=2.8.0=pyhd8ed1ab_1
   - pyopenssl=23.2.0=pyhd8ed1ab_1
   - pysocks=1.7.1=pyh0701188_6
-  - python=3.9.15=h0269646_0_cpython
+  - python=3.9.18=h0269646_0_cpython
   - python-dateutil=2.9.0=pyhd8ed1ab_0
   - python-fastjsonschema=2.19.1=pyhd8ed1ab_0
   - python-flatbuffers=24.3.25=pyh59ac667_0
