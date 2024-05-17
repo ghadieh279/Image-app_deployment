@@ -1,6 +1,6 @@
 Pillow==10.3.0
 rawpy==0.19.1
 streamlit==1.34.0
-tensorflow==2.10.0
+tensorflow==2.16.1
 wxPython==4.2.1
 
