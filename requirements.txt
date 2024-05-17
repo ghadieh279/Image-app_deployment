@@ -3,4 +3,3 @@ rawpy==0.19.1
 streamlit==1.33.0
 tensorflow==2.16.1
 wxPython==4.2.1
--r requirements/devel.txt
