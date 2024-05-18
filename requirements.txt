@@ -2,4 +2,4 @@ Pillow==10.3.0
 rawpy==0.19.1
 streamlit==1.33.0
 tensorflow==2.16.1
-https://files.pythonhosted.org/packages/36/60/0e40b653df66328e53c60d69c4f6c835655837e89da42e95feb28aa18118/wxPython-4.2.1-cp311-cp311-win_amd64.whl
+https://files.pythonhosted.org/packages/13/d6/37504d7d379dd5a9683eb610559b191dc7d2be03b244f8012863e1e4f596/wxPython-4.2.1-cp311-cp311-win32.whl
