@@ -5,7 +5,7 @@ import uuid
 import rawpy
 import io
 import os
-#import wxPython
+import wx
 import time 
 
 st.set_page_config(layout="wide")
@@ -368,14 +368,14 @@ def main():
                 with clm2:
                     if st.button("Browse"):
                         st.session_state['Browse'] = True
-                #with clm3:
-                    #if st.session_state['Browse'] == True:
-                        #folder_path = select_folder()
-                        #if folder_path:
-                            #st.session_state['selected_folder'] = folder_path
-                            #st.info(f'You selected this folder path: {folder_path}.')
-                            #with clm5: 
-                            #    st.info('Press "Submit" to save the images according to predictions or "Browse" to choose a different folder.')
+                with clm3:
+                    if st.session_state['Browse'] == True:
+                        folder_path = select_folder()
+                        if folder_path:
+                            st.session_state['selected_folder'] = folder_path
+                            st.info(f'You selected this folder path: {folder_path}.')
+                            with clm5: 
+                                st.info('Press "Submit" to save the images according to predictions or "Browse" to choose a different folder.')
                 with clm6: 
                     button_submit = st.empty()
                     
