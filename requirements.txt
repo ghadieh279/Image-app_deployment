@@ -1,5 +1,5 @@
 Pillow==10.3.0
 rawpy==0.19.1
-https://github.com/ghadieh279/Image-app_deployment/tree/main/streamlit-1.34.0-py2.py3-none-any.whl
-https://github.com/ghadieh279/Image-app_deployment/tree/main/tensorflow-2.16.1-cp39-cp39-win_amd64.whl
-https://github.com/ghadieh279/Image-app_deployment/tree/main/wxPython-4.2.1-cp39-cp39-win_amd64.whl
+streamlit==1.33.0
+tensorflow==2.10.0
+https://files.pythonhosted.org/packages/ee/c4/dbf0e6696c3bf7b0d24fd9f203107ad27296c81896d7bdb4228e75d400db/wxPython-4.2.1-cp39-cp39-win_amd64.whl
