@@ -5,7 +5,7 @@ import uuid
 import rawpy
 import io
 import os
-import wx
+import wxPython
 import time 
 
 st.set_page_config(layout="wide")
