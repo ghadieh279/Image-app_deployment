@@ -368,7 +368,7 @@ def main():
                 with clm2:
                     if st.button("Browse"):
                         st.session_state['Browse'] = True
-                with clm3:
+                #with clm3:
                     #if st.session_state['Browse'] == True:
                         #folder_path = select_folder()
                         #if folder_path:
