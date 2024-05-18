@@ -1,5 +1,5 @@
 Pillow==10.3.0
 rawpy==0.19.1
-streamlit==1.33.0
-tensorflow==2.16.1
-https://files.pythonhosted.org/packages/52/1e/d95b693c2f123b7bf5f816e4d0a390d5d3cdb88672bfb899b3d1bbb6887a/wxPython-4.2.1-cp38-cp38-macosx_11_0_universal2.whl
+https://files.pythonhosted.org/packages/88/34/0751fd391fe90c8a90e70ef267080e0d461a2bf00c9e84c5a39d3389470d/streamlit-1.34.0-py2.py3-none-any.whl
+https://storage.googleapis.com/tensorflow/versions/2.16.1/tensorflow-2.16.1-cp39-cp39-win_amd64.whl
+https://files.pythonhosted.org/packages/ee/c4/dbf0e6696c3bf7b0d24fd9f203107ad27296c81896d7bdb4228e75d400db/wxPython-4.2.1-cp39-cp39-win_amd64.whl
