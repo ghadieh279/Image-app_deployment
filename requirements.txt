@@ -2,4 +2,4 @@ Pillow==10.3.0
 rawpy==0.19.1
 streamlit==1.33.0
 tensorflow==2.16.1
-https://github.com/ghadieh279/Image-app_deployment.git/raw/branch/wxPython-4.2.1-cp39-cp39-win_amd64.whl
+https://github.com/ghadieh279/Image-app_deployment/tree/main/wxPython-4.2.1-cp39-cp39-win_amd64.whl
