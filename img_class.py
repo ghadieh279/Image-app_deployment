@@ -10,7 +10,7 @@ import time
 
 st.set_page_config(layout="wide")
 
-@st.cache_resource(show_spinner=False)
+#@st.cache_resource(show_spinner=False)
 def load_model():
     with st.spinner("Loading the image classification APP..."):
         model = tf.keras.models.load_model('img_saved_model.h5')
