@@ -1,7 +1,8 @@
 name: imageclassenv2
-channels:
+Channels:
   - conda-forge
   - defaults
+Platform: win-64
 dependencies:
   - _tflow_select=2.3.0=mkl
   - absl-py=2.1.0=pyhd8ed1ab_0
