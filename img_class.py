@@ -1,5 +1,5 @@
 import streamlit as st
-import tensorflow as tf
+from tensorflow import keras
 from PIL import Image, ExifTags
 import uuid
 import rawpy
@@ -13,7 +13,7 @@ st.set_page_config(layout="wide")
 @st.cache_resource(show_spinner=False)
 def load_model():
     with st.spinner("Loading the image classification APP..."):
-        model = tf.keras.models.load_model('img_saved_model.h5')
+        model = keras.models.load_model('img_saved_model.h5')
     return model
 
 model = load_model()
@@ -22,11 +22,11 @@ CLASS_NAMES = ["airport", "animal", "city", "food", "human", "nature"]
 
 
 def predict_image_class_in_memory(image_bytes):
-    img = tf.keras.preprocessing.image.load_img(io.BytesIO(image_bytes), target_size=IMAGE_SIZE)
-    img_array = tf.keras.preprocessing.image.img_to_array(img)
-    img_array = tf.expand_dims(img_array, 0)
+    img = keras.preprocessing.image.load_img(io.BytesIO(image_bytes), target_size=IMAGE_SIZE)
+    img_array = keras.preprocessing.image.img_to_array(img)
+    img_array = keras.expand_dims(img_array, 0)
     predictions = model.predict(img_array)
-    top_k = tf.math.top_k(predictions, k=2) # Get the top 2 predictions
+    top_k = keras.math.top_k(predictions, k=2) # Get the top 2 predictions
     first_pred_class = CLASS_NAMES[top_k.indices[0][0]]
     first_pred_accuracy = top_k.values[0][0] * 100
     second_pred_class = CLASS_NAMES[top_k.indices[0][1]]
