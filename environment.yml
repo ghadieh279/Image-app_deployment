@@ -204,7 +204,7 @@ dependencies:
   - tensorboard=2.10.1=pyhd8ed1ab_0
   - tensorboard-data-server=0.6.1=py39hcbf5309_4
   - tensorboard-plugin-wit=1.8.1=pyhd8ed1ab_0
-  - tensorflow=2.10.0=mkl_py39ha510bab_0
+  - tensorflow<2.16.1=mkl_py39ha510bab_0
   - tensorflow-base=2.10.0=mkl_py39h6a7f48e_0
   - tensorflow-estimator=2.10.0=py39haa95532_0
   - termcolor=2.4.0=pyhd8ed1ab_0
