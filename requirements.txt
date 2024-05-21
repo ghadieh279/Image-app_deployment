@@ -7,4 +7,4 @@ six==1.16.0
 attrdict3==2.0.2
 numpy==1.26.4
 Pillow==10.3.0
-http://downloads.sourceforge.net/wxpython/wxPython2.8-osx-unicode-2.8.12.1-universal-py2.7.dmg
+wxPython==4.2.1
