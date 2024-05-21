@@ -6,4 +6,5 @@ libgspell-1-dev
 libsdl2-dev
 libnotify-dev
 libgstreamer1.0-dev
+libwxgtk3.0-dev
 
