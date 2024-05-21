@@ -5,4 +5,4 @@ streamlit<1.35.0
 tensorflow==2.10.0
 wxPython==4.2.1
 wxWidgets==1.0.4
-attrdict3<=2.0.1
+attrdict3
