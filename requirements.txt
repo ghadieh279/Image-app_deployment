@@ -1,4 +1,4 @@
-webkit2gtk==4.1
+webkit2gtk==2.42.5
 GStreamer==1.24.3
 gobject==0.1.0
 rawpy==0.19.1
