@@ -4,3 +4,4 @@ rawpy==0.19.1
 streamlit<1.35.0
 tensorflow==2.10.0
 attrdict3
+wxPython==4.2.1
