@@ -1,2 +1,9 @@
 libgtk-3-dev
+libjpeg-dev
+libtiff5-dev
+libsecret-1-dev
+libgspell-1-dev
+libsdl2-dev
+libnotify-dev
+libgstreamer1.0-dev
 
