@@ -5,4 +5,4 @@ tensorflow==2.10.0
 wheel==0.43.0
 attrdict3==2.0.2
 Pillow==10.3.0
-wxPython<=4.2.1
+wxPython==4.2.0
