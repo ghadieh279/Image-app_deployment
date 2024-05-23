@@ -2,8 +2,8 @@ gobject==0.1.0
 rawpy==0.19.1
 streamlit<1.35.0
 tensorflow==2.10.0
-wheel==0.43.0
+wheel~=0.43.0
 attrdict==2.0.1
 attrdict3==2.0.2
 Pillow==10.3.0
-wxPython==4.2.1
+wxPython~=4.2.1
