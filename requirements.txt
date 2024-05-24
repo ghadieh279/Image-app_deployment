@@ -1,6 +1,6 @@
 gobject==0.1.0
 rawpy==0.19.1
 streamlit<1.35.0
-tensorflow~=2.10.0
+tensorflow>=2.10.0
 Pillow==10.3.0
 wxPython @ https://files.pythonhosted.org/packages/36/60/0e40b653df66328e53c60d69c4f6c835655837e89da42e95feb28aa18118/wxPython-4.2.1-cp311-cp311-win_amd64.whl
