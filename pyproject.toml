@@ -1,6 +1,5 @@
 [tool.poetry]
 name = "image-app-deployment"
-version = "0.1.0"
 description = "A streamlit app that uses deep learning to classify and save images into different categorical folder."
 authors = ["ghadieh279 <ghadiehmohammad@gmail.com>"]
 readme = "README.md"
