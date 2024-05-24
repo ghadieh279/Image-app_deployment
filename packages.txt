@@ -15,4 +15,3 @@ libtiff-dev
 libwebkit2gtk-4.0-dev
 libxtst-dev
 libgtk2.0-dev
-libwebkitgtk-dev
