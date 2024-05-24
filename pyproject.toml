@@ -1,12 +1,12 @@
 [tool.poetry]
 name = "image-app-deployment"
-version = "1.1.1"
+version = "0.1.0"
 description = "A streamlit app that uses deep learning to classify and save images into different categorical folder."
 authors = ["ghadieh279 <ghadiehmohammad@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "3.9"
+python = "3.11"
 gobject==0.1.0
 rawpy==0.19.1
 streamlit<1.35.0
