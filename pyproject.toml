@@ -15,7 +15,7 @@ wheel~=0.43.0
 attrdict==2.0.1
 attrdict3==2.0.2
 Pillow==10.3.0
-wxPython~=4.2.1
+wxPython @ https://files.pythonhosted.org/packages/ee/c4/dbf0e6696c3bf7b0d24fd9f203107ad27296c81896d7bdb4228e75d400db/wxPython-4.2.1-cp39-cp39-win_amd64.whl
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
