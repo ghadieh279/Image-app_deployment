@@ -3,3 +3,4 @@ Pillow
 rawpy
 streamlit
 tensorflow
+tkinter
