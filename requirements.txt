@@ -3,4 +3,3 @@ Pillow
 rawpy
 streamlit
 tensorflow
-pip>=24.3.1
